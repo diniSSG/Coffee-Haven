@@ -10,4 +10,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/coffee.png)
+![coffee](https://github.com/diniSSG/Coffee-Haven/assets/51855634/9d1d59a6-d821-4b95-bf24-adc26e493673)
