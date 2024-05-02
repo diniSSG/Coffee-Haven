@@ -1,8 +1,8 @@
-# Responsive Sushi Website
+# Responsive Coffee shop Website
 ## 
 ### Highlight
 
-- Responsive Sushi Restaurant Website Design Using HTML CSS & JavaScript
+- Responsive Coffee shop Website Design Using HTML CSS & JavaScript
 - Includes a dark and light mode.
 - Smooth scrolling in each section.
 - Contains animations when scrolling.
@@ -10,4 +10,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/preview.png)
+![preview img](/coffee.png)
